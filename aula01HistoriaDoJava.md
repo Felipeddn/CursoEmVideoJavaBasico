@@ -4,7 +4,7 @@ Professor: Gustavo Guanabara
 
 ## História dos computadores 
 
-Eniac, não tinha linguagem de programação, era programado por botões, e possui valvulas, não era binário, era decimal.
+Eniac, não tinha linguagem de programação, era programado por botões, e possuia valvulas, não era binário, era decimal.
 
 Uma das primeiras linguagens de alto nível foi o Pascal.
 
@@ -17,14 +17,14 @@ var
 begin
     msg := "Olá, mundo!";
     write(msg);
-end.
+end
 ````
 
 Um arquivo que armazena um código como acima é chamado de código-fonte.
 
 Essa linguagem é de alto nível porque está bem próxima da linguagem falada por seres humanos, o código digitado nessa linguagem é o código fonte.
 
-O código nesse formato não pode ser utilizado pelo computador, o computador só consegue utilizar códigos em binários. Para um computador utilizar esse código ele precisa ser transformado em um compilador o resultado dessa transformação é chamado de código executável.
+O código nesse formato não pode ser utilizado pelo computador, o computador só consegue utilizar códigos em binários. Para um computador utilizar esse código ele precisa ser transformado em um compilador, o resultado dessa transformação é chamado de código executável.
 
 Um compilador é compostos de outros componentes para passar um código fonte para um código executável, como um linker, um montador, um interpretador...
 
@@ -41,7 +41,7 @@ void main (){
 
 A linguagem C é considerada uma linguagem multiplataforma e sistemas operacionais como windows e linux e navegadores como o firefox foram feitos com essa linguagem, ela é uma linguagem muito usada ainda hoje e evoluiu para 
 
-C++, uma linguagem de programação que incluiu orientação a objetos
+C++, uma linguagem de programação que incluiu orientação a objetos  
 C#, ...
 
 Sun microsystems
@@ -59,6 +59,6 @@ Java com o passar do tempo se tornou uma linguagem de código aberto.
 
 A sun microsystem foi comprada pela Oracle o que deu o direito de uso comercial da linguagem Java, apesar de existir um braço do Java de código aberto chamado de "comunity".
 
-A linguagem Java é utilizado em chips de cartões, em em aplicativos sistemas como android, em blue-ray players, em leitores ebook, em tvs digitais, em alguns relógios, em sistemas da receita federal para declarar o imposto de renda.
+A linguagem Java é utilizado em chips de cartões, em aplicativos sistemas como android, em blue-ray players, em leitores ebook, em tvs digitais, em alguns relógios, em sistemas da receita federal para declarar o imposto de renda.
 
 Fim da aula
