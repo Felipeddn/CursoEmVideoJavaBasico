@@ -2,6 +2,8 @@
 
 Professor: Gustavo Guanabara
 
+[Video do exercicios](https://www.youtube.com/watch?v=ZBKxhnqX-Q0&list=PLJH2yd19u4hzRtpzm2dDCWZx58UrE85ye&index=2)
+
 Assinale a alternativa que contém a descrição correta de algoritmo
 
 c) Algoritmo é uma descrição das etapas de resolução de um problema ou a indicação ordenada de uma sequencia de ações bem-definidas.
