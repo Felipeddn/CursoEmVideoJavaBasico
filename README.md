@@ -27,5 +27,8 @@ Sempre fica minha eterna gratidão ao professor gustavo guanabara pelo conteúdo
     * SomaSwing  
     * TesteTipos  
     * TiposPrimitivos  
-    
+- Exercicios 6
+    * calculadoraIdade  
+    * DesafioCalcularIdade  
+- Aula 7
 
