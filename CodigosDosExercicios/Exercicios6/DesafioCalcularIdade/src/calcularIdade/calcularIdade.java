@@ -146,8 +146,15 @@ public class calcularIdade extends javax.swing.JFrame {
         // calcular age
         int age = current_year - birthday_year;
         
-        // show age on program
         lblIdade.setText(Integer.toString(age));
+        /*
+        if(birthday_year > current_year ){
+            lblIdade.setText("impossível!");
+        } else {
+            // show age on program
+            lblIdade.setText(Integer.toString(age));
+        }
+        */
     }//GEN-LAST:event_btnCalcularIdadeActionPerformed
 
     private void formWindowActivated(java.awt.event.WindowEvent evt) {//GEN-FIRST:event_formWindowActivated
@@ -158,6 +165,8 @@ public class calcularIdade extends javax.swing.JFrame {
         
         //show current year on program
         lblAnoAtual.setText(Integer.toString(current_year));
+        
+        txtAnoNascimento.setModel(new javax.swing.SpinnerNumberModel(1900, 1900, current_year, 1));
     }//GEN-LAST:event_formWindowActivated
 
     /**

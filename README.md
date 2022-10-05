@@ -30,5 +30,8 @@ Sempre fica minha eterna gratidão ao professor gustavo guanabara pelo conteúdo
 - Exercicios 6
     * calculadoraIdade  
     * DesafioCalcularIdade  
-- Aula 7
+- Aula 7  
+    * OperadoresAritmeticos  
+    * OperadoresSwing  
+    * OperadoresSwing2
 
