@@ -9,7 +9,8 @@ Nas aulas passadas já vimos alguns operadores
 
 ## Operadores aritméticos  
 
-
+Tabela|               |       |   
+----  |  -----------  | ----- | 
 **+** | Adição        | 5 + 2 | 7  
 **-** | subtração     | 5 - 2 | 3  
 ' *   | Multiplicação | 5 * 2 | 10  
@@ -41,13 +42,17 @@ A partir de agora iremos praticar no netbeans, verifique no diretório CodigosDa
 
 Pré - incrementa antes
 
+   | Tabela     |            |    
+-- |  --------  | ---------- |
 ++ | incremento | ++variavel | variavel = variavel + 1  
 -- | decremento | --variavel | variavel = variavel - 1  
 
 Pós - incremento depois
 
-++ | incremento | variavel++ | variavel = variavel + 1  
--- | decremento | variavel-- | variavel = variavel - 1  
+   |  Tabela    |            |  
+---|  --------  | ---------- |
+++ | incremento | variavel++ | variavel = variavel + 1    
+-- | decremento | variavel-- | variavel = variavel - 1    
 
 A ordem dos operadores influênciam na operação de incremento e decremento. Provaremos isso com o exemplo abaixo:
 
@@ -125,11 +130,13 @@ A ordem dos operadores influênciam na operação de incremento e decremento. Pr
 
 ## Operadores de atribuição
 
-+= | Somar e atribuir       | a += b | a = a + b      
--= | Subtrair e atribuir    | a -= b | a = a - b  
-*= | multiplicar e atribuir | a *= b | a = a * b  
-/= | dividir e atribuir     | a /= b | a = a / b  
-%= | atribuir o resto       | a %= b | a = a % b  
+   | Tabela                 |        |  
+-- |  --------------------  | ------ |
++= | Somar e atribuir       | a += b | a = a + b 
+-= | Subtrair e atribuir    | a -= b | a = a - b   
+*= | multiplicar e atribuir | a *= b | a = a * b     
+/= | dividir e atribuir     | a /= b | a = a / b    
+%= | atribuir o resto       | a %= b | a = a % b    
 
 Veja um exemplo dessa prática de atribuir
 
@@ -154,17 +161,21 @@ O Java não tem um operador de exponênciação
 
 Para as diversas operações matemáticas conhecidas existe a **Classe Math** do Java.
 
-PI   | Constante pi  | Math.PI                          | 3.1415...  
-pow  | Exponenciação | Math.pow(base (5), expoente (2)) | 25  
-sqrt | Raiz Quadrada | Math.sqrt(25)                    | 5     *Sq*uare *r*oo*t*  
-cbrt | Raiz Cubica   | Math.cbrt(27)                    | 3      *Cu*b*ic *r*oo*t*  
+     | Tabela        |                                  |  
+---- |  -----------  | -------------------------------- |
+PI   | Constante pi  | Math.PI                          | 3.1415... 
+pow  | Exponenciação | Math.pow(base (5), expoente (2)) | 25 
+sqrt | Raiz Quadrada | Math.sqrt(25)                    | 5     *Sq*uare *r*oo*t* 
+cbrt | Raiz Cubica   | Math.cbrt(27)                    | 3      *Cu*b*ic *r*oo*t*    
 
 Isso foi práticado no **OperadoresSwing2**.
 
 ## Arredondamentos
 
-abs   | valor absoluto            | Math.abs(-10)   | 10  
-floor | arredonda para baixo      | Math.floor(3.9) | 3   
+      | Tabela                    |                 |   
+----- |  -----------------------  | --------------- |
+abs   | valor absoluto            | Math.abs(-10)   | 10 
+floor | arredonda para baixo      | Math.floor(3.9) | 3  
 ceil  | arredonda para cima       | Math.ceil(4.2)  | 5  
 round | arredonda aritméticamente | Math.round(5.6) | 6  
 
