@@ -33,5 +33,8 @@ Sempre fica minha eterna gratidão ao professor gustavo guanabara pelo conteúdo
 - Aula 7  
     * OperadoresAritmeticos  
     * OperadoresSwing  
-    * OperadoresSwing2
-
+    * OperadoresSwing2  
+- Exercícios 7  
+    * SuperCalculadora  
+    * RefatorarSuperCalculadora  
+- Aula 8  
