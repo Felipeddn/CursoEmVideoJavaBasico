@@ -1,4 +1,4 @@
-# Exercícios de Java 6  
+# Exercícios de Java 7  
 
 Professor: Gustavo Guanabara
 
