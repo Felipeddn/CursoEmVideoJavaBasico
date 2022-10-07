@@ -60,7 +60,7 @@ Super calculadora - Essa calculadora tem um controle giratória para selecionar 
 
 Essa prática estará no diretório de exercicios 7.
 
-Nessa prática eu fiz como o Guanabara orientou e eu vi que ele criou um painel, no meu caso eu pensei em esconder os labels quando eu abro a janela e quando eu clico o botão eu faço eles aparecerem vou fazer um projeto com painel como ele fez para práticar ambos os modos, mas eu fiquei muito satisfeito que fui capaz de produzir um efeito apenas acessando um atributo do label. Estou muito feliz fazendo esse curso, me sinto realizado. Faz muito sentido o que ele fez, ele escondeu o painel logo todos os componentes do mesmo ficam escondido, no meu caso eu tive que esconder label por label, bem interessante ele ter pensado nisso.
+Nessa prática eu fiz como o Guanabara orientou, tentei resolver sozinho e consegui, e eu vi que ele criou um painel, no meu caso eu pensei em esconder os labels quando eu abro a janela e quando eu clico o botão eu faço eles aparecerem vou fazer um projeto com painel como ele fez para práticar ambos os modos, mas eu fiquei muito satisfeito que fui capaz de produzir um efeito apenas acessando um atributo do label. Estou muito feliz fazendo esse curso, me sinto realizado. Faz muito sentido o que ele fez, ele escondeu o painel logo todos os componentes do mesmo ficam escondido, no meu caso eu tive que esconder label por label, bem interessante ele ter pensado nisso.
 
 No caso ele determinou valores minimos e máximos para o spinner (-50, 50).
 
@@ -80,5 +80,15 @@ nomeDoLabel.setText(String.format("%.2f", nomeDaVariavel));
 A propriedade que permite o controle do tamanho da tela é o **resizable**, podemos desmarcar ele ou colocar como "false" para ele não interagir.
 
 Então fica como desafio para mim, a partir do meu código refatorar ele para chegar no mesmo modelo do Guanabara. Aula incrível, muito top!!
+
+"Desafio"
+
+[X] Refatorar o projeto SuperCalculadora inserindo um painel e escondendo o mesmo através do construtor.
+
+[x] Determinar valores máximos e mínimos para o spinner
+
+[x] Formatar as casas decimais de modo que apareça apenas duas em valores double e float.
+
+[x] configurar a janela para que a propriedade resizable seja false, ou seja, a tela não pode ter seu tamanho aumentado ou diminuido pelo usuário.
 
 Fim dos exercícios  

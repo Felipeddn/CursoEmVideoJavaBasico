@@ -36,5 +36,9 @@ Sempre fica minha eterna gratidão ao professor gustavo guanabara pelo conteúdo
     * OperadoresSwing2  
 - Exercícios 7  
     * SuperCalculadora  
-    * RefatorarSuperCalculadora  
-- Aula 8  
+    * SuperCalculadoraRefatorada  
+- Aula 8   
+    * OperadorTernario  
+    * ComparacaoStrings
+    * OperadoresLogicos  
+    * VerificadorIdadeSwing

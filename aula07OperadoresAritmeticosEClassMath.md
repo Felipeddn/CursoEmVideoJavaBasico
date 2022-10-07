@@ -42,17 +42,17 @@ A partir de agora iremos praticar no netbeans, verifique no diretório CodigosDa
 
 Pré - incrementa antes
 
-   | Tabela     |            |    
--- |  --------  | ---------- |
-++ | incremento | ++variavel | variavel = variavel + 1  
--- | decremento | --variavel | variavel = variavel - 1  
+Tabela  |            |            |   
+--      |  --------  | ---------- |
+++      | incremento | ++variavel | variavel = variavel + 1  
+--      | decremento | --variavel | variavel = variavel - 1  
 
 Pós - incremento depois
 
-   |  Tabela    |            |  
----|  --------  | ---------- |
-++ | incremento | variavel++ | variavel = variavel + 1    
--- | decremento | variavel-- | variavel = variavel - 1    
+Tabela |            |            |  
+---    |  --------  | ---------- |
+++     | incremento | variavel++ | variavel = variavel + 1    
+--     | decremento | variavel-- | variavel = variavel - 1    
 
 A ordem dos operadores influênciam na operação de incremento e decremento. Provaremos isso com o exemplo abaixo:
 
@@ -130,7 +130,7 @@ A ordem dos operadores influênciam na operação de incremento e decremento. Pr
 
 ## Operadores de atribuição
 
-   | Tabela                 |        |  
+Tabelar   |                        |        |  
 -- |  --------------------  | ------ |
 += | Somar e atribuir       | a += b | a = a + b 
 -= | Subtrair e atribuir    | a -= b | a = a - b   
@@ -161,7 +161,7 @@ O Java não tem um operador de exponênciação
 
 Para as diversas operações matemáticas conhecidas existe a **Classe Math** do Java.
 
-     | Tabela        |                                  |  
+ Tabela    |               |                                  |  
 ---- |  -----------  | -------------------------------- |
 PI   | Constante pi  | Math.PI                          | 3.1415... 
 pow  | Exponenciação | Math.pow(base (5), expoente (2)) | 25 
@@ -172,7 +172,7 @@ Isso foi práticado no **OperadoresSwing2**.
 
 ## Arredondamentos
 
-      | Tabela                    |                 |   
+Tabela      |                    |                 |   
 ----- |  -----------------------  | --------------- |
 abs   | valor absoluto            | Math.abs(-10)   | 10 
 floor | arredonda para baixo      | Math.floor(3.9) | 3  
