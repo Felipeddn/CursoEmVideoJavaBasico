@@ -82,13 +82,13 @@ Familia  | Tipo Primitivo | Classe invólucro | Tamanho      | Exemplo
 -------- |----------------|------------------|--------------|--------  
 Lógico   | boolean        | Boolean          | 1 bit        | true    
 Literais | char           | Character        | 1 byte       | 'A'  
-         |     -          | String           | 1 byte /cada | "JAVA"  
+Literais |  não tem       | String           | 1 byte /cada | "JAVA"  
 inteiros | byte           | Byte             | 1 byte       | 127  
-         | short          | Short            | 2 bytes      | 32 767   
-         | int            | Integer          | 4 bytes      | 2 147 483  
-         | long           | Long             | 8 bytes      | 2<sup>63</sup>  
+Reais    | short          | Short            | 2 bytes      | 32 767   
+Reais    | int            | Integer          | 4 bytes      | 2 147 483  
+Reais    | long           | Long             | 8 bytes      | 2<sup>63</sup>  
 Reais    | float          | Float            | 4 bytes      | 3.4.e<sup>+38</sup>  
-         | double         | Double           | 8 bytes      | 1.8.e<sup>+308</sup>
+Reais    | double         | Double           | 8 bytes      | 1.8.e<sup>+308</sup>
 
 ## Testes do tipos primitivos com prática de saída de dados
 
