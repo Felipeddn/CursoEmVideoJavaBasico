@@ -39,6 +39,14 @@ Sempre fica minha eterna gratidão ao professor gustavo guanabara pelo conteúdo
     * SuperCalculadoraRefatorada  
 - Aula 8   
     * OperadorTernario  
-    * ComparacaoStrings
-    * OperadoresLogicos  
-    * VerificadorIdadeSwing
+    * ComparacaoStrings  
+    * OperadoresLogicos   
+    * VerificadorIdadeSwing   
+- Exercicios 8   
+    * LeitorDePensamento
+- Aula 9  
+    * ProgramaIdade  
+    * ProgramaMedia  
+    * ProgramaParOuImparSwing  
+- Exercicios 9  
+    
