@@ -4,9 +4,9 @@ Professor: Gustavo Guanabara
 
 Existem 3 estruturas de repetição o **enquanto**, o **repita** e o **para**.
 
-O Java possuem essas estruturas mas usa o While 
+O Java possuem essas estruturas mas usa o While para enquanto e repita.
 
-Verifique a **a11-fluxograma-de-repeticao.png** imagem um modelo de fluxograma para estrutura de repetição
+Verifique a **a11-fluxograma-de-repeticao.png** imagem de um modelo de fluxograma para estrutura de repetição
 
 A **repetição com teste lógico no ínicio do código** e a repetição que consideramos **enquanto**.
 
