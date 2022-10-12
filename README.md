@@ -43,10 +43,26 @@ Sempre fica minha eterna gratidão ao professor gustavo guanabara pelo conteúdo
     * OperadoresLogicos   
     * VerificadorIdadeSwing   
 - Exercicios 8   
-    * LeitorDePensamento
+    * LeitorDePensamento  
 - Aula 9  
     * ProgramaIdade  
     * ProgramaMedia  
     * ProgramaParOuImparSwing  
 - Exercicios 9  
+    * TesteDoExercicioDeEquivalentes  
+    * EquacaoSegundoGrauSwing  
+- Aula 10  
+    * VotacaoSwing  
+    * ProgramaPernas  
+- Exercicios 10  
+    * ProjetoTriangulo  
+- Aula 11  
+    * Contador01While  
+    * Contador02Swing   
+- Exercicios 11  
+    * TesteExercicio  
+    * FatorialSwing  
+- Aula 12  
+    * Numeros  
+    * Repeticao01  
     
