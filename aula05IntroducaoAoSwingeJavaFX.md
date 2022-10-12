@@ -13,8 +13,8 @@ Alguns pacotes Java que podemos importar para adicionar funcionalidades.
 - Java.net -> para redes  
 - Javax.sound -> x de (extended) bibliotecas estendidas, para som  
 - Javax.media -> para midias  
-- Javax.swing -> 
-- JavaFX.fxml -> 
+- Javax.swing -> bibliotecas para interface graficas com diversos componentes  
+- JavaFX.fxml -> Evolução do swing para componentes gráficos  
 
 ## Biblioteca swing
 
@@ -72,7 +72,7 @@ Como gerenciar os projetos? onde encontra-se todos esses arquivos e como gerar u
 
 no caso de onde fica os projetos já foram evidênciados toda vez que começamos um projeto, já para a criação do "executável" (lembre-se java cria bytecode) fazemos o seguinte:
 
-No netbeans escolha o projeto **OlaMundoSwing** apertamos no icone de "limpar e contruir projeto" que é representado pelo icone de um martelo com uma vassoura. após isso um diretório chamado distro aparecerá o arquivo de extensão .jar é o executável que pode ser distribuido. compartilhei com um colega e ele conseguiu usar numa boa
+No netbeans escolha o projeto **OlaMundoSwing** apertamos no icone de "limpar e construir projeto" que é representado pelo icone de um martelo com uma vassoura. após isso um diretório chamado distro aparecerá o arquivo de extensão .jar é o executável que pode ser distribuido. compartilhei com um colega o arquivo .jar e ele conseguiu usar numa boa
 
 O mesmo pode ser feito com o projeto **OlaMundoJavaFX**.
 
